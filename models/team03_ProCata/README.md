@@ -28,7 +28,7 @@ Recommended setup (same as repository root):
 
 ```bash
 conda create -n ProCata python=3.9 -y
-conda activate NTIRE-SR
+conda activate ProCata
 pip install -r requirements.txt
 pip install -r models/team03_ProCata/requirements.txt
 ```
